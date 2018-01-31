@@ -1,0 +1,9 @@
+#italics {
+    font-style: italic;
+}
+#link {
+    font-size: 1.5em;
+}
+.jumbotron {
+    background-color: orange !important;
+}
